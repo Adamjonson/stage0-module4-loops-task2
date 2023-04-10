@@ -18,7 +18,7 @@ public class PrimeNumbers {
         }
     }
     public void printPrimeNumbers(int printToInclusive) {
-        int counter =1;
+        int counter = 2;
         while(counter <= printToInclusive){
             boolean result = isPrime(counter);
             if (result) {
