@@ -7,7 +7,7 @@ public class Multiplication {
         if(multiplyByAndToInclusive >= 0){
             while(number <= multiplyByAndToInclusive){
                 if(multiplyByAndToInclusive == 0){
-                    System.out.println("");
+                    System.out.print("");
                     break;
                 }else{
 
